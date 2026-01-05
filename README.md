@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Jeho | AI Engineer</h1>
+<h1 align="center">Jeho | AI Engineer</h1>
 
 ###
 
-<p align="left"><bold>AI Engineer</bold> | I simplify the complex. I build intelligent tools that prioritize logic over hype and clarity over jargon.</p>
+<p align="center"><b>AI Engineer</b> | I simplify the complex. I build intelligent tools that prioritize logic over hype and clarity over jargon.</p>
 
 ###
 
