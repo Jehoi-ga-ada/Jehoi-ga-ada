@@ -14,27 +14,27 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
