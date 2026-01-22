@@ -13,6 +13,10 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="80" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="80" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="80" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="80" alt="tensorflow logo"  />
