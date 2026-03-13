@@ -6,12 +6,6 @@
 
 <h1 align="center">Jeho | AI Engineer</h1>
 
-###
-
-<p align="center"><b>I build stuff</p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="80" alt="docker logo"  />
   <img width="12" />
