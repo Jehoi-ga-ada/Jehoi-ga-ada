@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center"><b>AI Engineer</b> | I simplify the complex. I build intelligent tools that prioritize logic over hype and clarity over jargon.</p>
+<p align="center"><b>I build stuff</p>
 
 ###
 
