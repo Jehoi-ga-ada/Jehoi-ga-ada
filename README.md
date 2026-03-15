@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Jeho | AI Engineer</h1>
+<h1 align="center">Jeho</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="80" alt="docker logo"  />
